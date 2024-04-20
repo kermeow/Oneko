@@ -1,16 +1,5 @@
-# Rojo Plugin Template
+![icon](icon.png)
 
-It's recommended to use [this Code extension](https://marketplace.visualstudio.com/items?itemName=cantonios.project-templates) for handling placeholders.
+cat follow cursor
 
-## Requirements
-
--   Rojo
--   Wally
-
-## Building and Testing
-
-TODO
-
-## Live Syncing with Studio
-
-`studio.project.json` exists so you can serve the plugin into ServerStorage with a live Rojo session.
+[Get the plugin](https://create.roblox.com/store/asset/17229773259/)
